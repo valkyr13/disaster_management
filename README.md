@@ -5,4 +5,9 @@ Projectcodefundo
 3. Users will provide their details and it will be verified using Aadhar Card verification. Details provided by the User will not be visible to any third-party.
 4. The idea is to provide a safe space for individuals to talk to each other and perhaps even help each other. The application can serve as a Virtual Anonymous Therapy-Group.
 5. Conversations between Users will be secured with end-to-end encryption.
-6. Users will provided with features like reporting other Users suspected of Cyber-bullying. Suspected Users will be investigated and appropriate actions will be taken against them.
+6. Users will be provided with features like reporting other Users suspected of Cyber-bullying. Suspected Users will be investigated and appropriate actions will be taken against them.
+
+
+Update:
+1. Aadhar Verification could not be established beacause Aadhar API required transaction of a siginificant amount.
+2. The feature of reporting another user could not be added because of time constraint as of now. 
